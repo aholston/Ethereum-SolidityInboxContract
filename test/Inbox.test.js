@@ -40,3 +40,6 @@ describe('Inbox', () => {
     });
 })
 
+// ENDPOINT: 
+// https://rinkeby.infura.io/v3/b8b01747724441e1a9e671114ceb408d
+
